@@ -1,0 +1,8 @@
+"capabilities": {
+    "list-after-move": {
+      "webhooks": [{
+        "https://trello-power-ups-custom-button.web.app": "https://yourapp.com/list-after-move",
+        "description": "Update custom buttons on the card based on the new list."
+      }]
+    }
+  }
